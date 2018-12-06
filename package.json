@@ -1,0 +1,25 @@
+{
+  "name": "qa-automation-assignment-bugdaryan",
+  "version": "1.0.0",
+  "description": "### Acceptance Criteria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vineti-Internship/qa-automation-assignment-bugdaryan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vineti-Internship/qa-automation-assignment-bugdaryan/issues"
+  },
+  "homepage": "https://github.com/Vineti-Internship/qa-automation-assignment-bugdaryan#readme",
+  "devDependencies": {
+    "webdriverio": "^4.14.1"
+  },
+  "dependencies": {
+    "wdio-mocha-framework": "^0.6.4"
+  }
+}
